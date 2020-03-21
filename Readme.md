@@ -2,6 +2,7 @@
 
 * Студент: [Igor Varekhov](https://up.htmlacademy.ru/htmlcss/27/user/858513).
 * Наставник: `Без наставника`.
+* [Просмотреть сайт](https://garryvar.github.io/sedona.github.io/index.html).
 
 ---
 
